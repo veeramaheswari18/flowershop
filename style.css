@@ -448,7 +448,7 @@ form input::placeholder{
       padding: 18px 7%;
    }
    section{
-      padding: 30px 1%;
+      padding: 10px 1%;
    }
    }
    @media(max-width:768px){
